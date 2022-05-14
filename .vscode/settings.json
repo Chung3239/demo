@@ -1,0 +1,9 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "workbench.iconTheme": "vs-seti",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast"
+}
